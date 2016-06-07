@@ -19,7 +19,7 @@ h2 {
     text-align: center;
 }
 #chicken{
-  background-color: #fff;
+  background-color: #A9A9A9;
   padding: 5px;
   border: 1px solid black;
   float:right;
@@ -31,7 +31,7 @@ h2 {
   float:right;
 }
 #sushi{
-  background-color: #b3ff66;
+  background-color: #DC143C;
   padding: 5px;
   border: 1px solid black;
   float:right;
